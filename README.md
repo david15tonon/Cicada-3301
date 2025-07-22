@@ -1,6 +1,5 @@
 # Cicada-3301
-In Attempt to solve Cicada 3301 Puzzle by myself 
-
+Just for saving
 ## Start From Start.jpg
 ![](Start.jpg)
 
